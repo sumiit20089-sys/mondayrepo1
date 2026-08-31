@@ -6,7 +6,7 @@ function App() {
   const [showAlert, setShowAlert] = useState(false);
   const audioRef = useRef(null);
 
-  const phoneNumber = '+1 (888) 387-6159';
+  const phoneNumber = '+1(888)824-0181';
 
   const playSound = () => {
     if (audioRef.current) {
